@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Carlos Quevedo Garza"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Saltillo, Coahuilla, México"
+  employer         : "Tecnológico de Monterrey"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Cqgarza@exatec.tec.mx" 
 
   # Academic websites
   academia         : # URL
