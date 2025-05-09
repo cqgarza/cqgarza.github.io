@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "research website"
+title                    : "Research website"
 title_separator          : "-"
 name                     : &name "Carlos Quevedo Garza"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Carlos Quevedo Garza"
   pronouns         : # example: "she/her"  
-  bio              : "personal research website for academia and blog"
+  bio              : "Personal research website for academia and blog"
   location         : "Monterrey, N.L, México"
   employer         : "Tecnológico de Monterrey"
   uri              : # URL
