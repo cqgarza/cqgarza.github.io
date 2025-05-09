@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Carlos Quevedo Garza"
   pronouns         : # example: "she/her"  
-  bio              : "Carlos Quevedo personal research website for academia"
+  bio              : "personal research website for academia and blog"
   location         : "Monterrey, N.L, México"
   employer         : "Tecnológico de Monterrey"
   uri              : # URL
@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
