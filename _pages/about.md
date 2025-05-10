@@ -11,8 +11,6 @@ I hold a Bachelor's degree in International Business with a specialization in Bu
 
 Upon completing my undergraduate education, I pursued a master’s degree in France, in the city of Clermont-Ferrand, at the Clermont Graduate School of Management, specializing in supply chain and logistics. I studied there from 2020 to 2022. Subsequently, I continued my academic training in the United States, earning a master’s degree in Data Science at South Dakota State University, in the state of South Dakota. During these academic periods, I expanded my technical knowledge and developed new specialized skills, particularly in the areas of machine learning, databases, and advanced statistical systems.
 
-Throughout my journey, I have had the opportunity to adapt to various environments, which has helped me strengthen my resilience, independence, and autonomy. These experiences have enabled me to operate in different languages and cultural contexts and to make decisions in complex situations, which has been key to my personal growth.
-
 I have decided to broadly share my knowledge, research, and scientific contributions, which are available through this platform and accessible to the general public.
 
 
