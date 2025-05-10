@@ -11,26 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Data Science (South Dakota State University), 2023–2024
+* M.A. in Business Management, specialized in Supply Chain & Logistics (École Supérieure de Commerce de Clermont), 2020–2022
+* B.A. in International Business, specialized in Business Intelligence (Tecnológico de Monterrey), 2016–2020
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Studies abroad:
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Université Laval: French language studies, Summer 2017
+* Pontifical Catholic University of Argentina: Trade relations between Mexico and South America, Summer 2018
+* University of Barcelona: Strategic planning tools: maximizing value, Winter 2018
+* University of Ljubljana: international finance, Summer 2019
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
@@ -43,22 +34,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ Quevedo, C. (2022). Behavior of the Mexican Consumer in the U.S. Automotive Industry. ESC Clermont Business School, p. 73.
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
