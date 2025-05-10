@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I hold a Bachelor's degree in International Business with a specialization in Business Intelligence. I graduated from Tecnológico de Monterrey, located in Monterrey, Nuevo León, Mexico. During my undergraduate studies, I had the opportunity to travel to South America, Eurafrica, and Canada, where I gained new knowledge and valuable cultural exposure.
+I hold a Bachelor's degree in International Business with a specialization in Business Intelligence. I graduated from Tecnológico de Monterrey, During my undergraduate studies, I had the opportunity to travel to South America (Argentina), Eurafrica (Spain, Slovenia), and Canada, where I gained new knowledge and valuable cultural exposure.
 
-Upon completing my undergraduate education, I pursued a master’s degree in France, in the city of Clermont-Ferrand, at the Clermont Graduate School of Management, specializing in supply chain and logistics. I studied there from 2020 to 2022. Subsequently, I continued my academic training in the United States, earning a master’s degree in Data Science at South Dakota State University. During these academic periods, I expanded my technical knowledge and developed new specialized skills, particularly in the areas of machine learning, databases, and advanced statistical systems.
+Upon completing my undergraduate education, I pursued a master’s degree in France, at the Clermont Graduate School of Management, specializing in supply chain and logistics. I studied there from 2020 to 2022. Subsequently, I continued my academic training in the United States, earning a master’s degree in Data Science at South Dakota State University. During these academic periods, I expanded my technical knowledge and developed new specialized skills, particularly in the areas of machine learning, databases, and advanced statistical systems.
 
 I have decided to broadly share my knowledge, research, and scientific contributions, which are available through this platform and accessible to the general public.
+
+
 
 
 For more info
